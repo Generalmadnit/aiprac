@@ -1,0 +1,6 @@
+,Transaction_date,Transaction_ID,Gender,Age,Marital_status,State_names,Segment,Employees_status,Payment_method,Referal,Amount_spent
+0,1/1/2019,151200,Female,19.0,Single,Kansas,Basic,Unemployment,Other,1.0,2051.36
+1,1/1/2019,151201,Male,49.0,Single,Illinois,Basic,self-employed,Card,0.0,544.04
+2,1/1/2019,151202,Male,63.0,Married,New Mexico,Basic,workers,PayPal,1.0,1572.6
+3,1/1/2019,151203,,18.0,Single,Virginia,Platinum,workers,Card,1.0,1199.79
+4,1/1/2019,151204,Male,27.0,Single,Connecticut,Basic,self-employed,Card,0.0,
